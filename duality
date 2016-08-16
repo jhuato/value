@@ -1,0 +1,17 @@
+# Duality
+
+Fixed point mathematics exploits the ``duality principle.'' Perhaps the most general form of this principle can be found in set theory:
+\begin{eqnarray}
+R -  \bigcup\limits_{i=1}^n A_i = \bigcap\limits_{i=i}^n (R - A_i),
+R -  \bigcap\limits_{i=1}^n A_i = \bigcup\limits_{i=i}^n (R - A_i),
+\end{eqnarray}
+
+where $n$ may go to infinity. ``In words, the complement of a union equals the intersection of the complements, and the complement of an intersection equals the union of the complements.''  Therefore, ``any theorem involving a family of subsets of a fixed set $R$ can be converted \emph{automatically} into another `dual' theorem by replacing all subsets by their complements, all unions by intersections and all intersections by unions.''\footnote{Kolmogorov, A. N. and S. V. Fomin (2012), \emph{Introductory Real Analysis}, Translated by Richard A. Silverman, Dover.}
+
+In microeconomics, the duality principle has become a workhorse via its applications in mathematical optimization under the convexity assumption.
+
+In simple terms, the idea is that if humans are purposeful in their actions (the labor assumption), the production of subjective labor power (aka, consumption) is described by a convex mapping $U(x)$, where $x$ is the vector of actions (the choice of labor expenditure and consumption levels), and the production of means of production and consumption goods is described by a convex mapping $F(x)$ (the inputs of production are the outputs of consumption and vice versa), then $x^*$ (and, therefore, $p^*$), the joint optimal choice of production and consumption actions $x^*$ (with its associated vector of ``equilibrium' prices'' $p^*$) can be obtained (1) by the direct maximization of $U(x)$ subject to $F(x)$ or, alternatively, (2) by the minimization of $E(x)$, where $E$ is the consumption-expenditure mapping subject to the cost function $C(x)$, or (3) by the maximization of production $F(x)$ subject to $U(x)$, or (4) by the minimization of cost $C(x)$ subject to $E(x)$.  In other words, under the convexity conditions, the vector of ``equilibrium prices'' $p^*$ is the dual of the optimal ``allocation'' vector $x^*$, and vice versa.
+
+The principle of duality extends to generalizations such as constrained static optimization (the Lagrangian multiplier is the dual of the technological or budget constraints), dynamic optimization (the co-state of the Hamiltonian signifies the dual of the dynamic constraint, cf. Dorfman), and convex games (cf. Intriligator).
+
+For more on this topic, see Diewert (), Diewert (), Mas Collel (), Intriligator (), and Dixit ().
