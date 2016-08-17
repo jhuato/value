@@ -1,16 +1,48 @@
 # Combined regulation
 
-How to characterize the totality of the process or ``mechanism'' that regulates the allocation of productive forces in today's global capitalist society?  
+How to characterize the process or ``mechanism'' that regulates the allocation of productive forces in today's global capitalist society?
 
-At the risk of alienating Marxist readers, I am tempted to adopt Samuelson's ``mixed'' adjective, as in ``mixed economy.''  The term ``mixture'' suggests a veritable ``chemical'' phenomenon --- irreversible, governed by the entropy law, etc. --- in contrast with a mere articulation of discrete ``mechanisms.'' 
+One may call it a ``mixed regulatory process.'' In contrast with the notion of an array of articulated ``mechanisms,'' the term ``mixture'' is suggestive of a more ``chemical'' phenomenon: costly if not impossible to reverse, governed by the entropy law, etc.  But the term may remind readers of Samuelson's formula: the ``mixed economy.''
 
-Less prone to elicit rejection among Marxists is the adjective ``combined,'' as in ``uneven and combined development.''  A ``combination'' also suggests ``chemical bonding.'' Be that as it may, taken as a totality, the effective process that regulates the allocation of the productive forces of labor in today's global capitalist society is a highly complex and dynamic, combined or mixed, regulatory process.
+Perhaps less likely to elicit rejection among Marxists is the adjective ``combined,'' as in ``uneven and combined development.''  A ``combination'' may also suggest ``chemical bonding.'' Be that as it may, taken as a totality, the effective process that regulates the allocation of the productive forces in today's global capitalist society is a highly complex, dynamic, combined or mixed, regulatory process.
 
-Either way, the analysis should reveal the more elementary structures that constitute this totality.
+The analysis should reveal the more elementary structures that constitute this process regarded as a totality.
 
-But before I attempt to analyze this process, I must make a general point that is often ignored.  Insofar as global capitalist society reproduces itself at each time point or for each time period, as a capitalist society, i.e. transforming itself while retaining its structural quality as capitalist, i.e. as dominated by the capitalist mode of production (and it has done so for a few centuries in a row), then one may think of this instantaneous or period reproduction as a set of fixed points along a time continuum.  
+But before one looks at the elementary structures of this process, I must rely on some abstract mathematical notions to make an important general point.  The following argument is not a rigorous, airtight logical deduction, but rather a plausible inductive argument.  To illustrate the point, assume discrete time and let $x_t$ be a vector that fully describes the state of global capitalist society at $t$.  The continuous time-dependent function $x_{t+1} = f_t(x_t)$ denotes in a stylized form the transformation of $x$ at $t$ into $x$ at the next period of time $t+1$.  In Hegelian terms, function $f_t$ captures the ``becoming'' of a new capitalist society over time as a result of the self negation of old capitalist society, its transition from ``being'' to ``nothing,'' and the transition of the new one from ``nothing'' to ``being.''
 
-The existence of these fixed points suggests the duality between productive-force allocations (the concrete use-value composition of wealth, capital, productive forces in general existing at a given time point in society) and the actual or effective measure of their concrete relative social importance (their ``shadow prices'').  
+The important point here is that there is a sense in which global capitalist society remains identical to itself in spite of its change from $t$ to $t+1$.  And that sense has to do with its qualitative essence, that aspect of itself that identifies it both at $t$ and $t+1$ as \emph{capitalist}.  This is the reason why one can think of capitalist reproduction as a sequence of fixed points on a time continuum. In other words,
+\[ x^* = f(x^*), \]
+
+For $x^* \neq 0$.
+
+Note that I have removed the subindex $t$ denoting the time dependence of $f$, as the function involved here would be one that leaves $x^*$ intact after the transformation.  It is a transformation of $x^*$ into itself at each point or period in the time continuum.
+
+With its ``mechanistic'' and ``static'' echos, the term ``equilibrium'' rubs Marxists the wrong way, but to the extent global capitalist society does not disintegrates, but it rather sticks together, there must be an ``equilibrating'' or ``balancing'' process at play.  In other words, we must be in the presence of a sequence of ``attractive fixed points,'' i.e. values of $x$ in the neighborhood of $x^*$ tend to ``pull'' $x$ toward $x^*$.  A sequence of ``attractive fixed points'' is a sequence of ``equilibria.'' 
+
+If there exist equilibria (and, again, the historical, secular persistence of capitalism testifies to this), and the equilibria is not some ``corner equilibria'' (e.g. $x^*=0$ or $x^* \rightarrow \infty$) then it is likely that the function $f$ is indeed continuous and convex in the relevant range of $x$.  
+
+I admit that this is not an entirely rigorous argument, since continuity and convexity are sufficient, though not necessary, conditions for the fixed point to exist.  This is inductive, not deductive reasoning.  
+
+In other words, the discontinuity and nonconvexity of $f$ does not necessarily make the fixed point impossible.  It just removes its necessity.  My argument is that, if capitalism has been able to replicate itself for almost half a millennium, then it is likely that in the relevant scale of historical events $f$ is both continuous and convex.
+
+
+
+
+
+ then the persistence of the essential capitalist quality of our global society is represented as the fixed point:
+\[ x^* = f_t(x^*) \]
+
+To the extent our global capitalist society reproduces itself as such, as a capitalist society, at each time point or for each given time period, transforming itself in some manner yet retaining its \emph{capitalist} quality, i.e. continuing to be dominated by the \emph{capitalist} mode of production as it has happened since the 16th century, then one is authorized to think of this reproduction as a sequence of ``fixed points'' on a time continuum.
+
+
+
+In mathematics, the fixed point of a function is an element of its domain set that maps to itself.  
+
+
+
+The existence and persistence of these fixed points in secular time implies that 
+
+ duality between productive-force allocations (the concrete use-value composition of wealth, capital, productive forces in general existing at a given time point in society) and the actual or effective measure of their concrete relative social importance (their ``shadow prices'').  
 
 Said differently, the actions (of production, exchange, and consumption) undertaken by individual in society, broadly speaking by workers and the capitalists (inclusive of all other nonworking social classes and groups), as these actions translate into an effective use-value composition of existing wealth (inclusive of capital), or a certain use-value composition of the existing productive forces, reveal the relative priorities of society, the relative social importance of each of these items.  (A Biblical reference, Matthew 7:16, is appropriate here: ``By their fruits you will recognize them.'')
 
@@ -48,3 +80,5 @@ In Marx's direct-price formation, the individual labor required to reproduce eac
 If there are relatively permanent obstacles to the mobility of the producers from branch to branch, adoption of techniques, etc., the direct price will be altered accordingly, but this is basically it.  So, clearly, there will be some producer $i$ of the commodity with $(G/L_g)/(Q_i/L_i) > p$.  Tough luck!  There are winners and losers here.  Inter-industry, it all hinges on the (Smith) ``effectual demand,'' embedded in the concept of socially necessary labor $L$.  Basically, $L$ is given by technical conditions of production and also by the size of the (solvent) social need (or ``effectual demand'').    But the notion of technical conditions/social need (effectual demand) is something more or less stable, something that only evolves slowly over time.  Not the result of tiny fluctuations in demand/supply.  This is what Smith, Ricardo, and Marx meant -- I'd argue.  This is all very empirically or historically determined.
 
 [Direct price mechanism.  Then production-price mechanism.  Then the modifications due to the other factors at play.  
+
+
