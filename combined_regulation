@@ -1,23 +1,48 @@
-# Combined regulation
+\documentclass{article} 
+\begin{document} 
+
+\title{Combined Regulation}
+\author{Julio Huato}
+\date{\today}
+
+\maketitle
 
 How to characterize the process or ``mechanism'' that regulates the allocation of productive forces in today's global capitalist society?
 
-One may call it a ``mixed regulatory process.'' In contrast with the notion of an array of articulated ``mechanisms,'' the term ``mixture'' is suggestive of a more ``chemical'' phenomenon: costly if not impossible to reverse, governed by the entropy law, etc.  But the term may remind readers of Samuelson's formula: the ``mixed economy.''
+I may say it is a ``mixed regulatory process,'' in contrast with the notion of an ``ensemble of articulated mechanisms.'' The term ``mixture'' suggests the existence of a less ``mechanical'' and more ``chemical'' phenomenon, just a notch below a full-fledged ``chemical reaction'': costly to reverse if not irreversible, governed by the entropy law, etc.  Yet the term may remind readers of Samuelson's formula: the ``mixed economy.''
 
-Perhaps less likely to elicit rejection among Marxists is the adjective ``combined,'' as in ``uneven and combined development.''  A ``combination'' may also suggest ``chemical bonding.'' Be that as it may, taken as a totality, the effective process that regulates the allocation of the productive forces in today's global capitalist society is a highly complex, dynamic, combined or mixed, regulatory process.
+Perhaps less likely to elicit rejection among Marxists is the adjective ``combined,'' as in ``uneven and combined development.''  A ``combination'' may also suggest ``chemical bonding.'' Be that as it may, taken as a totality, the effective process that regulates the allocation of the productive forces in today's global capitalist society is a dynamic, highly complex, combined or mixed, regulatory process.
 
-The analysis should reveal the more elementary structures that constitute this process regarded as a totality.
+The analysis should reveal the more elementary structures that constitute this process when regarded as a concrete historical totality.
 
-But before one looks at the elementary structures of this process, I must rely on some abstract mathematical notions to make an important general point.  The following argument is not a rigorous, airtight logical deduction, but rather a plausible inductive argument.  To illustrate the point, assume discrete time and let $x_t$ be a vector that fully describes the state of global capitalist society at $t$.  The continuous time-dependent function $x_{t+1} = f_t(x_t)$ denotes in a stylized form the transformation of $x$ at $t$ into $x$ at the next period of time $t+1$.  In Hegelian terms, function $f_t$ captures the ``becoming'' of a new capitalist society over time as a result of the self negation of old capitalist society, its transition from ``being'' to ``nothing,'' and the transition of the new one from ``nothing'' to ``being.''
+But before one looks at the elementary structures of the process, I must make an important general argument.  
 
-The important point here is that there is a sense in which global capitalist society remains identical to itself in spite of its change from $t$ to $t+1$.  And that sense has to do with its qualitative essence, that aspect of itself that identifies it both at $t$ and $t+1$ as \emph{capitalist}.  This is the reason why one can think of capitalist reproduction as a sequence of fixed points on a time continuum. In other words,
-\[ x^* = f(x^*), \]
+With its ``mechanistic'' and ``static'' echoes, the term ``equilibrium'' elicits rejection among many Marxists, but to the extent global capitalist society exists and persists over a relatively prolonged historical period, one can conceive of its reproduction over time as a sequence of ``equilibria.''  In mathematical terms, a sequence of ``equilibria'' is a sequence of ``fixed points.''
 
-For $x^* \neq 0$.
+The following argument is not a rigorous logical deduction, but rather a plausible inductive argument.  Assume discrete time and let $x_t$ be a vector that fully describes the state of global capitalist society at $t$.\footnote{A number of Marxists believe that a complex capitalist social formation is not susceptible to quantification.  The reason---it is alleged or insinuated---is that there are aspects of this complex totality that cannot be quantified \emph{in principle}, that therefore it is mistaken to try to capture the manifold material and social conditions of a capitalist society (economic, legal, political, moral, aesthetic, ideological, etc.) in a vector or list of numbers, even if one makes the list very long.  Quantifying is viewed as forcing a concrete phenomenon into a rigid, dry, and gray scheme that sacrifices its multifaceted, polychromatic richness, insidiously giving the unwarranted, false impression of ``mathematical precision.'' However, this attitude reveals an abject failure of abstraction.  Those who entertain it confuse the difficulty of precise measurement, a practical problem that can only be solved by the progressive improvement of the methods, techniques, and instruments of measurement, a process that interacts with the evolution of scientific categorization (cf. Von Neuman on the progression from believing that ``heat'' was unquantifiable in principle to its eventual measurement, a step that required conceiving of heat, not as a homogeneous entity, but as a structure composed of at least two distinctive ``elements,'' which were then categorized as ``temperature'' and ``energy,'' etc.), with the impossibility of categorization itself, since categorization or conceptualization, the identification of qualities involves \emph{ipso facto} the definition of quantities, is at the center of human cognition in general.  As soon as some aspect of a real phenomenon is categorized, i.e. its quality is identified, the topological boundaries that define it as what it is by contrast to what it is not, then its quantification is implied.  Any and all qualities are necessarily quantifiable.  In general, there can be no quality without quantity, nor can there be quantity without quality.  Quality and quantity are two intertwined aspects of the same dialectical unity.  Quantification is, simply, comparability against a conventional norm of the same quality, and at the very least a thing can be compared to itself. In the extreme or ``degenerate'' case when a quality is so rigid that it does not admit even the slightest quantitative variation, its quantitative domain is then binary, with possible values $1$ (i.e. the quality exists) and $0$ (the quality does not exist).}  The continuous time-dependent function $x_{t+1} = f_t(x_t)$ denotes in a stylized manner the transformation of $x$ from period $t$ to the next period $t+1$.  In canonical Hegelian terms, function $f_t$ captures the ``becoming'' of a new capitalist society over time as a result of the self negation of the old capitalist society, its transition from ``being'' to ``nothing,'' and the transition of the new one from ``nothing'' to ``being.''
 
-Note that I have removed the subindex $t$ denoting the time dependence of $f$, as the function involved here would be one that leaves $x^*$ intact after the transformation.  It is a transformation of $x^*$ into itself at each point or period in the time continuum.
+In general, as a concrete historical totality, $x_{t+1} \neq x_t$.  The difference $\delta x_{t+1} = x_{t+1} - x_t$ captures fully the social change involved.  However, to the extent both $x_t$ and $x_{t+1}$ are versions of one and the same $x$, the function $f_t$ ``maps'' $x$ to itself!  In other words, there is a sense in which global \emph{capitalist} society remains identical to itself in spite of its change over time.  And that sense refers to its invariable \emph{qualitative} essence, the aspect of itself that identifies it as \emph{capitalist} from time period to time period.
 
-With its ``mechanistic'' and ``static'' echos, the term ``equilibrium'' rubs Marxists the wrong way, but to the extent global capitalist society does not disintegrates, but it rather sticks together, there must be an ``equilibrating'' or ``balancing'' process at play.  In other words, we must be in the presence of a sequence of ``attractive fixed points,'' i.e. values of $x$ in the neighborhood of $x^*$ tend to ``pull'' $x$ toward $x^*$.  A sequence of ``attractive fixed points'' is a sequence of ``equilibria.'' 
+This is the sense in which one can conceive the process of capitalist development, the cycle of capitalist reproduction, as a sequence of fixed points on a time continuum. In other words, this is a sense in which the following holds:
+
+\begin{eqnarray} \label{eq: fixpoint}
+x^* = f(x^*),
+\end{eqnarray}
+
+where $x^*$ need not be unique.  Note that $f$ captures a process of social self transformation.  In general $f(x) \neq x$, yet out of all the possible values of $x$, there is at least one $x = x^*$ such that $f(x^*) = x^*$ and that is the actual value of $x$ ``chosen by history'' so that capitalist society remains capitalist instead of turning into something else.  (The trivial case is $x=0$, which one can rule out by assuming $x \neq 0$.)
+
+[This is the most general way in which I can invoke the analytical machinery of fixed points.  One other way, perhaps more natural, is to view the process of capitalist reproduction as having a production $p$ and consumption $c$ sides, with vector $x$ capturing the discrepancy between them $x = c - p$.  This is akin to double-entry accounting, where every transaction is matched on its ``source'' and on its ``use'' (``origin'' and ``destination'').  I can then follow Ross, general equilibrium story.  I then need quantities (use values) and measures of relative social importance (``prices'').  Why not ``values''?  Because the regulatory mechanism is combined.  So it's not just markets. Etc.]
+
+Note that I have removed the subindex $t$ denoting the time dependence of $f$, as the function involved here would be one that leaves $x^*$ intact after the transformation.  It is a transformation of $x^*$ into itself for each period in the time continuum.
+
+
+there must exist an ``equilibrating'' or ``balancing'' process at play that enforces equation (\ref{eq: fixpoint}) for each time period.
+
+Furthermore, when one takes into consideration that global capitalist society (again, defined as a global society dominated by capitalist production) has been reproducing itself continuously since the 16th century, then one cannot avoid the impression that capitalism has demonstrated its secular historical permanence.  If the rule of capitalist production in the world had been historically ephemeral, one could plausibly claim that the sequence of fixed points involved was merely accidental, the result of a fortuitous, short-lived combination of circumstances.  However, in a human historical scale, almost four centuries of capitalist hegemony suggests historical necessity.  This is why one may infer that the centripetal forces that make the social formation stick systematically overwhelm its centrifugal forces, i.e. that the fixed points in the said sequence are ``attractors.''  Think of water finding its way down to the bottom river basin 
+
+what is involved here is not only the ``existence'' of this sequence of equilibria or fixed points, but their ``dynamic stability'' as well.  In other words, 
+
+In other words, we must be in the presence of a sequence of ``attractive fixed points,'' i.e. values of $x$ in the neighborhood of $x^*$ tend to ``pull'' $x$ toward $x^*$.  A sequence of ``attractive fixed points'' is a sequence of ``equilibria.'' 
 
 If there exist equilibria (and, again, the historical, secular persistence of capitalism testifies to this), and the equilibria is not some ``corner equilibria'' (e.g. $x^*=0$ or $x^* \rightarrow \infty$) then it is likely that the function $f$ is indeed continuous and convex in the relevant range of $x$.  
 
@@ -72,7 +97,7 @@ Trade tariffs affect the mobility of productive capital (means of production) an
 
 4. There may or may not be periods of relative stability in the ``balance of forces'' among these various elementary mechanisms.  But perhaps the constant is change.  Can the data available permit us capture the evolution over time of these various components in the global regulatory mechanism?  With all the provisos, we should use the data on ``government spending'' as a proxy for this.
 
----
+* * *
 
 In Marx's direct-price formation, the individual labor required to reproduce each particular class of commodities got aggregated in and through the mechanism of social formation (individual producers interacting with one another through the markets, by buying and selling their wares).  The center of gravity of the direct prices was the social average.  Take a particular class of commodities, and let $Q$ be the total inventory of the good at some time point, with $Q = \sum_{i=1}^n Q_i$, where $Q_i$ is the inventory level of the commodity (in its proper ``physical'' units) held by producer $i$ at that time point.  Now let $L$ be the flow of labor time, direct and indirect (duly ``reduced'' to ``unskilled'' labor), socially necessary or required to reproduce $Q$ from scratch, where $L = \sum_{i=1}^n L_i $.  Then, $\lambda = L/Q$ is the value of one unit of the commodity in standard labor time units at the given time point.  Let $G$ be the total amount of gold (or ``taxing power of the state'') held at the same time point, with $G = \sum_{j=1}^m G_j$, where $G_j$ is the gold inventory held by $j$ then.  (I know Marx said that the portion of the gold inventories that matter in determining exchange values was only the portion involved in circulation, as gold inventories exceeding the needs of circulation would go into hoards, and if they fell short hoards would be depleted accordingly, but this is an arbitraging process between the various uses of gold, so here I just assume the ``return equalization'' holds so the hoards are constant.) Suppose that the uniform labor time required to reproduce $G$ is $L_g$, so that each ounce of gold has a value of $\lambda_g = L_g/G$.  Then the direct price of the commodity (in ounces of gold per unit of the commodity) is given by: 
 \[p = \lambda/\lambda_g = (G/L_g) / (Q/L)\]
@@ -81,4 +106,4 @@ If there are relatively permanent obstacles to the mobility of the producers fro
 
 [Direct price mechanism.  Then production-price mechanism.  Then the modifications due to the other factors at play.  
 
-
+\end{document}
