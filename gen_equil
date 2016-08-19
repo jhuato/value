@@ -1,0 +1,258 @@
+\title{General equilibrium}
+\author{Julio Huato\footnote{Email: \texttt{jhuato@sfc.edu}, Associate Economics Professor at St. Francis College, Brooklyn, New York.}}
+\date{\today}
+
+\documentclass[12pt]{article}
+
+\begin{document}
+\maketitle
+
+This section introduces the analysis of \emph{general equilibrium}.
+
+The general equilibrium approach was originally developed to study the determination of \emph{market prices} by regarding a market in its interdependence with the other markets in society, viewing all market prices as determined at once.  In this particular interpretation, general equilibrium assumes the existence of \emph{markets}, i.e. of private ownership.  However, this assumption is not strictly necessary.  The essential insights of general equilibrium are \emph{not} specific to particular social structures (such as markets).  General equilibrium analysis illuminates basic interactions among the various spheres of social life under any type of social structure, regardless of the specific social process by which resources are allocated.
+
+The first part of this section deals a \emph{unified society} in interaction with the rest of nature.  The second part splits the life of this society into two interdependent spheres: production and consumption.  For social life to proceed without disruption, these spheres of social life need to coordinate their actions in accordance with \emph{specific proportions}.  The third part introduces the Edgeworth box, a graphical apparatus that illustrates the interaction between individuals in society as they relate to issues of \emph{efficiency} and \emph{equity} in a simple general equilibrium context.  The fourth part concludes summarizes the section.  As usual, in the main body of the section, the method of analysis is graphical or geometric.   The mathematical appendix derives the results using \emph{calculus}.  The background concepts required for this section are provided in previous sections.
+
+The chief purpose of this section is to show how a set of \emph{specific proportions} of cooperation and coordination among the various parts of a society is determined, regardless of the prevailing \emph{social structures}.\footnote{Here, ``cooperation'' means the process of working together toward a shared goal.   ``Coordination'' means that the individuals involved in cooperation act in an organized manner so they attained their goal efficiently. ``Efficiency'' means without unnecessary waste of resources.}  Specific social structures, such as  private ownership (markets) or social ownership (direct planning), determine the \emph{form} in which these proportions appear to individuals.
+
+Different social structures attain these specific proportions through different processes of social formation, processes that---depending on conditions---are more or less wasteful of society's resources.  The treatment of these processes under the rubric of general equilibrium is problematic.\footnote{See the discussion on the Walrasian \emph{auctioneer} below.}  Overall, different social structures translate these specific proportions into different outcomes in terms of the distribution of wealth and consumption across individuals, in fact, into different trajectories over time, different patterns of development, since each type of social structure entails different initial conditions in the access of individuals to society's wealth.  However, the general determination of these specific proportions remains the same.
+
+\section{Integrated social life}\label{sec:integr}
+
+We begin with a unified society in which all social activity flows as a \emph{unity} of diverse activities: production and consumption carried out by myriad individuals who \emph{directly} cooperate and coordinate their individual actions.\footnote{In economics, individual welfare functions are customarily called \emph{utility functions}.  Although the formation of \emph{welfare} functions on the basis of individual \emph{utility} functions is a complex one, we will use the terms \emph{welfare} and \emph{utility} interchangeably.}  Although production and consumption are distinctive activities, they are \emph{not} managed independently.  The producers and consumers are not assumed to act independently from one another, each one driven by individual production and welfare functions.
+
+The diagram in Figure (\ref{f: pps}) shows society's ultimate resource, its total endowment of annual \emph{conscious} or \emph{purposeful time} on the horizontal axis.\footnote{Clearly, $365 > T > 0$, positive since a human society without conscious time is either not a society or not human, and less than 365 days since sleep-time alone takes about 122 days of society's time in a given year.} The time that society must spend working in production is $l$ in days.  We may call it \emph{necessary time} or---more simply---\emph{labor time}.  The rest of society's purposeful time is spent as conscious \emph{free time} $f$, also quantified in days.\footnote{In class societies, necessary labor becomes the sole activity of the workers or direct producers while the owners of productive wealth capture all the free time.  In other words, the \emph{freedom} that society's productive powers affords concentrates at the top while \emph{necessity} flows down to the bottom of society.}  More free time, and---therefore---less labor time, is indicated in the graph by a rightward movement along the horizontal axis.  In other words, the origin for free time is the bottom left (southwest) corner of the diagram while the origin for labor time is the bottom right (southeast) corner.
+
+[Figure: PPS here] \label{f: pps}
+
+Assuming no waste of conscious time, the sum of labor time and free time equals $T$.  This is society's resource constraint:
+\begin{eqnarray}
+l + f = T \label{eqn:resconst}
+\end{eqnarray}
+
+Society's welfare increases the more it has of two goods: \emph{free time} $f$ and \emph{consumption} $c$.  More generally, to simplify the analysis, we assume that society (1) prefers more to less of these two goods, (2) averages of given combinations of the goods yield more welfare than the original combinations, and (3) society's preferences are consistent as discussed in chapter [CHAPTER].  Based on these premises, we draw three representative social indifference curves also in Figure [FIGURE].  As a result of the assumptions made: (1) the curves further to the northeast indicate higher welfare levels, (2) the curves are convex to the origin, and (3) the curves do not cross.\footnote{A strong reminder is in order: A theory or model can only generate the conclusions that are already embedded in its premises.  The premises of our analysis are very strong or unrealistic.  Consequently, the conclusions extracted from them should be taken with all due caution.}
+
+[FIGURE]
+
+Remember that, for a given level of welfare (i.e. moving along a certain indifference curve), the slope of the curve on a very short segment (or ``at a point'') is the \emph{marginal rate of substitution} of (in this case) free time for consumption, $MRS_{fc}$.  The marginal rate of substitution of free time for consumption is the amount of free time that society, on the basis of its needs or preferences, is \emph{willing to sacrifice} to increase its consumption by one unit while staying at the same welfare level.
+
+To consume, society must produce.  Society's productive powers, embedded in the producers, are described by the \emph{transformation curve} (or productive possibilities frontier) in Figure [FIGURE].  As in chapter [CHAPTER], the transformation curve is downward sloping to indicate that, to produce greater quantities of the consumption good, society must sacrifice certain amounts of free time---which is to say, it must increase its labor time.  It is also concave to the origin reflecting the assumption that there are diminishing returns to free time; i.e. as a given amount of free time is sacrificed, the resulting increase in production is smaller and smaller.  Alternatively, there are diminishing returns to consumption; i.e. as a given amount of consumption is sacrificed, the resulting increase in free time is smaller and smaller.
+
+[FIGURE]
+
+
+Remember that, for given technology and resources (i.e. $T$), the slope of the transformation curve is the \emph{marginal rate of transformation} of free time for consumption, $MRT_{fc}$.  The marginal rate of transformation of free time for consumption is the amount of free time that, on the basis of its production possibilities, society \emph{must sacrifice} to increase its production of the consumption good by one unit.
+
+Under the usual assumptions, we have stipulated the two elements of choice: (1) social preferences and (2) society's resource and production possibilities constraint.  Society's problem is that of maximizing its welfare level given its resource and productive possibilities constraint.  As shown in chapter [CHAPTER], this is attained when the transformation curve is tangent to the highest-utility indifference curve, i.e. when it touches the indifference curve furthest to the northeast at one point only.  In other words, society's optimal combination of free time and consumption is attained at the point where the \emph{slope} of the transformation curve is equal to the \emph{slope} of the highest-welfare indifference curve. This point of tangency or slope equality is described algebraically by the following equation:
+\begin{eqnarray}
+MRS_{fc} = MRT_{fc} \label{eqn:geeqn}
+\end{eqnarray}
+
+
+Society must spend labor time $l^*$, and hence carve out free time $f^* = T - l^*$, in order to produce and consume $c^*$.  This combination of free time and consumption ($f^*, c^*$) yields the highest level of social welfare $W^*$ that can be obtained, given production possibilities, without waste of society's conscious time.  Figure [FIGURE] shows the optimal social choice.  Clearly, welfare level $W_1$ is unattainable with given resource and technology, while $W_0$ falls short of what society can attain.
+
+[FIGURE]
+
+
+An alternative, but equivalent way to present society's choice is by reference to the \emph{production function}.  The production function, which we discuss more extensively in chapter [CHAPTER] below, is a function that shows the maximal levels of output that can be produced by using up different amounts of inputs (e.g. purposeful time).  In this case, the good produced is consumption and the input utilized is labor time.  The graph of the production function is called the \emph{total output curve} (see Figure [FIGURE].  Note that, in this simple framework, the total output curve is the mirror image of the transformation curve.  Therefore, the slope of the production function, called the \emph{marginal product of labor} (defined as the change in output associated with one unit increase in the input, labor time), is the same slope of the transformation curve but with a negative sign.  Consequently, we can state the result in equation~\ref{eqn:geeqn} as follows:
+
+
+[FIGURE]
+
+
+\begin{eqnarray}
+MRS_{fc} = - MP_l \label{eqn:geeqn2}
+\end{eqnarray}
+where $MP_l \equiv \Delta c/\Delta l = - \Delta c/\Delta f$ (for a small change in labor time $\Delta l$).
+
+Under the assumptions we have adopted, this result is efficient in the sense that it leads to the highest level of welfare given the constraints it faces.
+
+Following the leads in chapters [CHAPTER] and [CHAPTER], readers can examine graphically the implications for the optimal social choice that result from altering the resource constraint, i.e. changing the value of $T$, productive possibilities (e.g. shifting the production function inwardly or outwardly), and social preferences (e.g. making the indifference curves more flat or more convex).  It should be clear that, other things equal, a greater $T$ (say, by costlessly reducing sleep time) will lead to higher $l*$, $c^*$, $f^*$, and $W^*$.  This is the case where society keeps the cake and eats it too. However, if the transformation curve (or, its negative, the production function) is shifted outwardly without $T$ increasing, the optimal amount of labor time $l^*$ will increase but free time $f^*$ will decrease; with a higher $l^*$, the production of $c^*$ will also increase, as well as society's welfare level $W^*$ (as a higher indifference curve will be reached).  Changes in preferences (reflected in the changing location and shape of the indifference curves, while sticking to the three assumptions above) can lead to various outcomes, and thus require careful case-by-case analyses.
+
+\section{Split social life}\label{sec:split}
+
+Suppose now that society is constituted by two distinct institutions: a productive unit or \emph{firm} and a collective worker/consumer (the \emph{worker}, for short). Assume that there are no conflicts among the individual members in each institution. Thus, all individual members of society wear the hats of both institutions, with the exception of \emph{dependents} (children, disabled and retired people), who can only consume.\footnote{Dependants are, therefore, members of the \emph{worker}.} 
+
+For society to function and function efficiently, the two institutions must cooperate and coordinate their actions.  The following analysis aims to clarify the terms of this cooperation/coordination.  More precisely, we try to answer this question: What are the \emph{specific proportions} at which these institutions should transfer purposeful time and products to one another so that society as a whole reproduces itself fluidly and efficiently?
+
+The worker is endowed with a total of $T$ days of purposeful time per year, and it is up to her to decide how many days $l$ to spend working for the firm and how many to spend freely $f$.
+\begin{eqnarray}
+T = l + f.
+\end{eqnarray}
+
+To facilitate coordination, firm and worker will record their transactions using one day of purposeful time as their unit of account.  It may help to think of these records as \emph{tokens}, where one token represents one day of purposeful time. One may assume that society assigns the firm the task of issuing $T$ tokens and crediting them to the worker at the beginning of the period.  
+
+If the firm needs labor-power services continuously over the period, it can be granted ``token credit'' by the worker until the worker exchanges her tokens for products (the firm debits the worker's account and credits itself), and then the firm receives the tokens to settle its ``debt'' with the worker (the firm can then credit the worker and debit itself).  If the firm obtains a surplus from its activity, the surplus is regarded as a ``social dividend'' distributed back to the worker.
+
+Note that if, instead of starting by crediting the $T$ tokens to the worker, the firm credited them to itself: the worker would not be able to ``pay'' for her consumption until after she received the tokens from the firm in exchange for her labor-power services.  Thus, the firm would have to grant the worker ``token credit'' until the worker receives tokens in ``exchange'' for her labor-power services.\footnote{We note below that this ``exchange'' is not necessarily an exchange of commodities proper.  It could be direct cooperation between the firm and the worker, the firm being operated or managed separately, but belonging to the worker.  Since, in that setting, there is no transfer of ownership, this is not commodity exchange proper.}
+
+Finally, the firm could start by crediting a portion of the $T$ tokens (e.g. 50 tokens) to the worker and the rest to itself, or some other proportion determined on the basis of prior experience.  It should be clear that the initial distribution of the tokens makes no significant difference in the results for this type of society, since---by assumption---the worker (its members \emph{as} members of society) own the firm.  The tokens are only used to facilitate accounting, cooperation, and coordination between the worker and the firm.
+
+The tokens allow the worker (dependants, included) to acquire products for consumption $c$ which the firm supplies directly to her. The tokens not spent in consumption are viewed as entitling the worker to free time instead.
+
+The firm may earn a surplus from its production.  In tokens:
+\begin{eqnarray}
+\Pi = p q(l) - l,
+\end{eqnarray}
+where $p$ (tokens/product) is the \emph{specific proportion} at which society trades off tokens (purposeful time days) for units of the product, $q$ is the product in its corresponding physical units, and $q(.)$ is increasing and concave in $l$.  Any surplus obtained by the firm will be shared by the individual members of society in accordance with customs or civic rules they may establish for that purpose.  
+
+Each institution manages things so that it economizes its use of resources.  In tokens, the worker's total budget is:
+\begin{eqnarray}
+y = T + \Pi,
+\end{eqnarray}
+where, again, $T = l + f$.
+
+As a consumer, the worker (dependants included) will spend $y$ in consumption and free time:
+\begin{eqnarray}
+y = f + p c.
+\end{eqnarray}
+
+The firm will choose its demand for $l$ and, thus, determine its supply of products $q$, given $p$.  The worker will choose her supply of $l$ and, thus, her demand for products for consumption $c$.
+
+An adequate coordination between these institutions requires that the firm's demand for and the worker's supply of labor-power services match.  It also requires that the worker's demand for products $c$ and the firm's supply $q$ be equal: $c=q(l)$.  Together, these two conditions determine a \emph{general equilibrium}.  But before we enforce these equalities and pin down the general equilibrium, let us look first at things for the perspective of each institution in turn.
+
+The firm's problem is:
+\begin{eqnarray}
+\max_l p q(l) - l,
+\end{eqnarray}
+given $p$.
+
+The first-order condition for a maximum is:
+\begin{eqnarray}
+\frac{d \Pi}{d l} = p q'(l) - 1 = 0,
+\end{eqnarray}
+which leads to:
+\begin{eqnarray}
+q'(l) = \frac{1}{p}; \label{eqn:ge3}
+\end{eqnarray}
+i.e. the reciprocal of $p$ equals the so-called \emph{marginal product of labor}.
+
+The worker's problem is:
+\begin{eqnarray}
+\max_l W(c, f),
+\end{eqnarray}
+subject to: $\Pi + T = p c + f$ or $\Pi + l = p c$.  Substituting $\Pi$, the constraint appears as: $p q(l) = p c$.  Also, since $l + f = T$, $f = T - l$. Clearly, the constraint simplifies to: $c = q(l)$, which in turn simplifies the worker's problem to:
+\begin{eqnarray}
+\max_l W(q(l), T - l)).
+\end{eqnarray}
+
+The first-order condition for a maximum of the worker's welfare function is:
+\begin{eqnarray}
+\frac{d}{d l} W(q(l), l)= W_c \ q'(l) - W_f = 0.
+\end{eqnarray}
+
+In other words:
+\begin{eqnarray}
+\frac{W_f}{W_c} = q'(l). \label{eqn:ge2}
+\end{eqnarray}
+
+We are ready to determine the general equilibrium, by reconciling conditions~\ref{eqn:ge1} and~\ref{eqn:ge2}:
+\begin{eqnarray}
+\frac{W^*_f}{W^*_c} = q'(l^*) = \frac{1}{p^*}. \label{eqn:ge}
+\end{eqnarray}
+
+The asterisk indicates equilibrium levels.  That is, the rate $p^*$ tokens/product at which the worker should acquire products from the firm in exchange for tokens should be equal to the ratio of marginal utilities $W_c/W_f$ evaluated at the optimal levels of consumption $c^*$ and free time $f^*$, both of which depend on the optimal allocation of labor-power services $l^*$.  The firm and the worker choose, respectively, the demand for and supply of labor-power services, equalized in equilibrium, $l^*$.  The optimal level of labor-power services $l^*$ implies the optimal quantities of production $q^*$, consumption $c=c^*=q^*$, and free time $f=f^*=T - l^*$.  If the functional forms $W(.)$ and $q(.)$ are specified, the general equilibrium $p^*$ will also be determined more specifically.  
+
+Another way of presenting the same result is this:
+\begin{eqnarray}
+W^*_f = \frac{W^*_c}{p^*},\label{eqn:ge1}
+\end{eqnarray}
+which says that, in general equilibrium, the contribution to the worker's welfare from the last unit of free time must equal the contribution to welfare from the last unit of product consumed as discounted by $p^*$.  Note that the discounting by $p^*$ transforms units of the product into their token (or purposeful time) equivalent, which thus makes the resulting welfare directly comparable to the welfare contributed by the last unit of free time: they are both the welfare contributions that flow from the use of their last day of purposeful time in their alternative applications (necessary labor or freedom).
+
+In other words, in general equilibrium, the welfare contribution of the last unit of free time must be equal to the welfare contribution of the last unit of necessary labor time.  Note that $p^*$ is a coefficient (or ``marginal rate of substitution'' $W^*_c/W^*_f$ or ``marginal rate of transformation'' $1/q'(l^*)$) that enables the effective comparison of products \emph{and} purposeful time.  In other words, $p^*$ is a social structure (or the manifestation of a social structure) that enables the \emph{valuation} (the determination of the \emph{social importance} in purposeful-time units, i.e. the importance to humans) of what humans produce. 
+
+It should be clear that, if social life is to flow without disruption, this specific proportion must be kept.  This implies that the reproduction of society, any society (since our analysis applies to any society), effectively entails the reduction of useful products to the distinctive quality of human activity: conscious or purposeful time.  By transferring human powers (conscious time) for production and then products for consumption, i.e. for the reproduction of human powers, humans are effectively determining what the output of their activity represents to them.  Valuation in this general sense is indispensable for the reproduction of society.  And valuation entails that everything humans produce be reduced to units of humanity, so to speak.
+
+Substituting $p^*$ to obtain the optimal surplus of the firm:
+\begin{eqnarray}
+\Pi^* = \Big( \frac{W_c}{W_f} \Big) q(l^*) - l^*.
+\end{eqnarray}
+
+Therefore, the optimal worker's budget will be:
+\begin{eqnarray}
+y^* = l^*  + \Pi^* \\ 
+y^* = l^* + \Big( \frac{W_c}{W_f} \Big) q(l^*) - l^* \\ 
+y^* = \Big( \frac{W_c}{W_f} \Big) q(l^*),
+\end{eqnarray}
+i.e. the optimal product $q^*$ evaluated at $p^*$ and, thus, in token or purposeful time terms, all of which will be ``spent'' in consumption $p^* \ c^*$.
+
+Although this suggestion has been made above, a strong \emph{warning} may be in order to prevent confusion:  
+
+The analysis above does \emph{not} necessarily refer to a society with exclusive or \emph{private ownership} and, hence, cooperative interaction by \emph{trade} (in \emph{markets}).  For this analysis to be an (abstract) analysis of how a \emph{capitalist society} functions, we would need to specify private ownership by the individual members of society over the firm that organizes production and over the annual endowment of purposeful time.  Then we would have markets for the product and for labor-power.  
+
+Also, the electronic tokens introduced here are \emph{not} necessarily \emph{money}. They are a convenient unit of account for the institutions of society to facilitate their mutual cooperation and coordination.  Money proper is a legal claim of private ownership over society's wealth.  With (product and labor-power) markets and money, the specific proportions at which the various elements of society coordinate would take the form of \emph{prices}.  More specifically, $p$ would be the product price (in monetary units per unit of product), $w$ would be the wage rate (in monetary units per purposeful day) or workers' income, $\Pi$ would be the profit of the firm accruing to its private owners or capitalists' income, etc.
+
+\section{Edgeworth box}\footnote{The graphical device presented in this section is owed to the Irish philosopher and economist Francis Ysidro Edgeworth.}  
+ 
+
+[FIGURE]
+
+Suppose society---made up by two individuals, Ximena $x$ and Ysidro $y$---is endowed with a given initial amount of two goods, apples $a$ and bananas $b$.  More specifically, $\bar{a}^x$ is Ximena's endowment of apples, $\bar{b}^x$ is her endowment of bananas, $\bar{a}^y$ is Ysidro's initial lot of apples and $\bar{b}^y$ is his endowment of bananas.\footnote{Here endowment does not mean that Ximena necessarily \emph{owns} that amount of apples and bananas privately, but only that she's in charge of managing her utilization, e.g. her consumption.  These are not means of production but consumption goods, personal property.}
+
+Ximena's utility function is $u^x(a^x, b^x)$, where $a^x$ is her consumption of apples and $b^x$ is her consumption of bananas.  In turn, Ysidro's utility is given by $u^y(a^y, b^y)$.  The problem facing Ximena and Ysidro is the distribution between them of the endowment of apples and bananas.
+
+The resource constraint is:
+\begin{eqnarray}
+a^x + a^y \leq \bar{a}^x + \bar{a}^y \equiv \bar{a} \ \textrm{and} \\
+b^x + b^y \leq \bar{b}^x + \bar{b}^y \equiv \bar{b},
+\end{eqnarray}
+
+though---excluding waste by assumption---one may rule out the inequality.
+
+The rectangle in Figure [FIGURE] is the Edgeworth box.  It shows the amount of apples on the horizontal axis and the amount of bananas on the vertical one.  The length of the horizontal side (axis) is $\bar{a}$ and the length of the vertical side (axis) is $\bar{b}$.  
+
+Let the bottom left corner of the box represent the origin for Ximena and the top right corner the origin for Ysidro.  (Ysidro's graph is upside down.) Then any possible allocation or distribution of $\bar{a}$ and $\bar{b}$ between Ximena and Ysidro can be indicated by a point in the box.  Figure [FIGURE] shows point $A$ in the diagram, representing the endowment or initial allocation of apples and bananas.  The perpendicular line drawn across $A$ splits the diagram into four quadrants.  The (left-to-right) distance from Ximena's origin to the point where the endowment perpendicular line intersects the horizontal axis is $a^x$ and the (right-to-left) distance from Ysidro's origin to that same point represents $a^y$.  The (bottom-up) distance from Ximena's origin to the point where the endowment perpendicular line intersects the vertical axis is $b^x$ and the (top-down) distance from Ysidro's origin to that same point represents $b^y$.  Increases in Ximena's consumption appear as movements towards the northeast while increases in Ysidro's consumption appear as movements towards the southwest.
+
+[Preferences are next.  They require diminishing $MRS_{ab}$ for both Ximena and Ysidro, i.e. (quasi-) concave utility functions.  For Ximena, increasing utility appears as a movement to the NE. For Ysidro, increasing utility appears as a reallocation towards the SW.  Graphical discussion: Consider reallocations.  Mutually advantageous ``trades.''  Pareto improvements and Pareto efficiency.  Tangency of the indifference curves.]
+
+Define a Pareto efficient allocation as an allocation for Ximena $[(a^{*x}, b^{*x}), (a^{*y}, b^{*y})]$ that maximizes her utility function $u^x(a^x, b^x)$ subject to the constraint that Ysidro is also maximizing his utility function $u^y(a^y, b^y) = u^{*y}(a^{*y}, b^{*y}) \equiv u^{*y}$, and to the resource constraints:
+\begin{eqnarray}
+a^x + a^y \leq \bar{a}^x + \bar{a}^y \equiv \bar{a} \ \textrm{and} \\
+b^x + b^y \leq \bar{b}^x + \bar{b}^y \equiv \bar{b}.
+\end{eqnarray}
+
+By substitution, we may simplify the problem facing Ximena.  We note that:
+\begin{eqnarray}
+a^y = \bar{a} - a^x, \\
+b^y = \bar{b} - b^x.
+\end{eqnarray}
+
+Using the Lagrangian:
+\begin{eqnarray}
+L \equiv u^x(a^x, b^x) + \lambda [u^y(\bar{a} - a^x, \bar{b} - b^x) - u^{*y}].
+\end{eqnarray}
+
+To solve the problem, we take the partial derivatives of the Lagrangian with respect to each choice variable and the Lagrangian multiplier $\lambda$:
+\begin{eqnarray}
+\frac{\partial L}{\partial a^x} = \frac{\partial u^x}{\partial a^x} - \lambda \frac{\partial u^y}{\partial a^y} = 0, \\
+\frac{\partial L}{\partial b^x} = \frac{\partial u^x}{\partial b^x} - \lambda \frac{\partial u^y}{\partial b^y} = 0, \\
+\frac{\partial L}{\partial \lambda} = u^y(a^y, b^y) - u^{*y} = 0.
+\end{eqnarray}
+
+Thus, we arrive at the first-order condition for a maximum:
+\begin{eqnarray}
+\left(\frac{\partial u^x}{\partial a^x}\right) \Big{/} \left(\frac{\partial u^x}{\partial b^x}\right) = \left(\frac{\partial u^y}{\partial a^y}\right) \Big{/} \left(\frac{\partial u^y}{\partial b^y}\right),
+\end{eqnarray}
+which is to say:
+\begin{eqnarray}
+\frac{\partial b^x}{\partial a^x}\Big|_{\bar{u}^x} = \frac{\partial b^y}{\partial a^y}\Big|_{\bar{u}^y};
+\end{eqnarray}
+where $\bar{u}$ denotes a constant level of utility.
+
+[Define \emph{contract curve} as the set of Pareto efficient points that could be attained by voluntary bargaining starting from any given initial endowment.  Direct bargaining or negotiation between the individuals leads to efficiency.  We are assuming individual utility functions that are independent---they only depend on each own's individual consumption.]
+
+[The budget constraint going through the initial endowment.  This is self-contradictory.  If there are only two individuals, there is no budget constraint!  The budget constraint is the way the indifference curve of all other individuals in society would look to Ximena if she were to face them.  Earth is flat if you're trying to build a building in Brooklyn.  Earth is round if you are planning an intercontinental flight for Delta.  Under the ``market,'' the problem facing Ximena appears as one constrained by a flat budget line with slope $- (p^a/p^b)$. For Ximena, the optimal condition is:
+\begin{eqnarray}
+\left(\frac{\partial u^x}{\partial a^x}\right) \Big{/} \left(\frac{\partial u^x}{\partial b^x}\right) = \frac{p^a}{p^b}, \\
+\end{eqnarray}
+and for all others $z$:
+\begin{eqnarray}
+\left(\frac{\partial u^z}{\partial a^z}\right) \Big{/} \left(\frac{\partial u^z}{\partial b^z}\right) = \frac{p^a}{p^b}, \\
+\end{eqnarray}
+as well.  The Walrasian auctioneer.  Other terms that can be defined in this framework: Excess demand and excess supply.  Finally, to show general equilibrium with production, one can insert the Edgeworth box in a transformation function (or ``production possibilities frontier.'' Then the slope of the transformation function asserts itself as the slope of the ``budget lines.'']
+
+
+We will consider only one allocation mechanism: planning.  In chapter \ref{ch:xxx}, we will also consider bargaining between the two parties as a simplified description of the market process.
+
+
+\end{document}
